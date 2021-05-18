@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "A simple IoT Platform - DB module",
+  "main": "index.js",
+  "scripts": {
+    "lint" : "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresCodifica/PlaziVerse.git"
+  },
+  "author": "andresCodifica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresCodifica/PlaziVerse/issues"
+  },
+  "homepage": "https://github.com/andresCodifica/PlaziVerse#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
